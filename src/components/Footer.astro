@@ -13,12 +13,18 @@ const { noMarginTop = false } = Astro.props;
 
 <footer class={`${noMarginTop ? "" : "mt-auto"}`}>
   <Hr noPadding />
+  <!-- <div class="footer-wrapper" style="display: flex; justify-content: center;"> -->
   <div class="footer-wrapper">
     <Socials centered />
     <div class="copyright-wrapper">
-      <span>Copyright &#169; {currentYear}</span>
-      <span class="separator">&nbsp;|&nbsp;</span>
-      <span>All rights reserved.</span>
+      <!-- <span>Copyright &#169; {currentYear}</span> -->
+      <!-- <span class="separator">&nbsp;|&nbsp;</span> -->
+      <span>
+        主题来自
+        <a target="_blank" href="https://github.com/satnaing/astro-paper">
+          astroPaper.
+        </a>
+      </span>
     </div>
   </div>
 </footer>
