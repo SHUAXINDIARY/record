@@ -3,11 +3,18 @@ layout: ../layouts/AboutLayout.astro
 title: "关于"
 ---
 
-# 说明
+### 说明
 
 简单记录一些和女票在一起的日常
 
-# TODO
+### 两人的足迹
+> 来自 [china-ex](https://github.com/itorr/china-ex) | [world-ex](https://github.com/itorr/world-ex)
+
+![china](https://img.shuaxinjs.cn/%5B%E7%A5%9E%E5%A5%87%E6%B5%B7%E8%9E%BA%5D%5B%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%9C%B8%5D.png)
+
+![world](https://img.shuaxinjs.cn/%5B%E7%A5%9E%E5%A5%87%E6%B5%B7%E8%9E%BA%5D%5B%E5%85%A8%E7%90%83%E5%88%B6%E9%9C%B8%5D7l167.png)
+
+### TODO
 
 - [x] 去其他城市旅游
 - [x] 看电影
