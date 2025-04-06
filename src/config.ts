@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "ZXY",
   ogImage: "https://img.shuaxinjs.cn/favicon-16x16-next.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 
